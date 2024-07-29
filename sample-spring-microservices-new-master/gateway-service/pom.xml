@@ -70,7 +70,7 @@
                         <configuration>
                             <image>
                                 <builder>paketobuildpacks/builder-jammy-base:latest</builder>
-                                <name>piomin/${project.artifactId}:${project.version}</name>
+                                <name>srdockerhub2/${project.artifactId}:${project.version}</name>
                             </image>
                         </configuration>
                         <executions>
